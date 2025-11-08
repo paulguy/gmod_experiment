@@ -1,0 +1,6 @@
+WorldVertexTransition {
+    $basetexture nature/snowfloor003a
+    $surfaceprop snow
+    $basetexture2 cs_havana/dirtfloor009c
+    $surfaceprop2 dirt
+}
