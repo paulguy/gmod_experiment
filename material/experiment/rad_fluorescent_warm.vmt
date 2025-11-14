@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+    $basetexture experiment\solid_white.vtf
+    $color 228 249 174
+}

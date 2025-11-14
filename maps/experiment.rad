@@ -1,3 +1,5 @@
 ldr: experiment/rad_fluorescent 189 231 232 12
 hdr: experiment/rad_fluorescent 189 231 232 6
 
+ldr: experiment/rad_fluorescent_warm 228 249 174 8
+hdr: experiment/rad_fluorescent_warm 228 249 174 4
