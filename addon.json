@@ -1,0 +1,12 @@
+{
+    "title" : "experiment",
+    "type"  : "map",
+    "tags"  : [ "scenic" ],
+    "ignore"    : [ "*.png",
+                    "*.jpg",
+                    "*.log",
+                    "*.prt",
+                    "*.rad",
+                    "*.vmf",
+                    "*.vmx" ]
+}
